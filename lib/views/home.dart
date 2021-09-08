@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:bookme3/models/recipe.api.dart';
-import 'package:bookme3/models/recipe.dart';
-import 'package:bookme3/views/widgets/recipe_card.dart';
+import 'package:cool_recipes/models/recipe.api.dart';
+import 'package:cool_recipes/models/recipe.dart';
+import 'package:cool_recipes/views/widgets/recipe_card.dart';
 
 class HomePage extends StatefulWidget {
   @override

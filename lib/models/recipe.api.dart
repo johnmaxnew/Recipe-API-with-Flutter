@@ -1,5 +1,5 @@
 import 'dart:convert';
-import 'package:bookme3/models/recipe.dart';
+import 'package:cool_recipes/models/recipe.dart';
 import 'package:http/http.dart' as http;
 
 class RecipeApi {
