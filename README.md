@@ -1,6 +1,6 @@
-# bookme3
+# Cool Recipes
 
-A new Flutter project.
+Consuming APIs with Flutter.
 
 ## Getting Started
 
